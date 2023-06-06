@@ -9,8 +9,8 @@ class IFS:
         self.probs = probs
         self.startPoint = startPoint
         
+        
     def generate_image(self, n):
-
         #lists of x and y coords
         x, y = [], []
 
