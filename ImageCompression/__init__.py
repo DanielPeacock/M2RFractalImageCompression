@@ -1,0 +1,1 @@
+from .ImageCompression import ImageCompression
